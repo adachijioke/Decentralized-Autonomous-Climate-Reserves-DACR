@@ -1,4 +1,4 @@
-# Decentralized-AutonomousClimate-Reserves--DACR-
+# Decentralized-Autonomous-Climate-Reserves-DACR
 # biome-tokenization smart contract
 
 ## Overview
